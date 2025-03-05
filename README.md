@@ -4,7 +4,6 @@
 
 ### 🎨 Frontend Developer | 💻 Java Enthusiast | 🧠 DSA Learner
 
-<img align="center" width="500" height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 🚀 Passionate about creating innovative, interactive, and user-friendly applications.  
 🔭 Explore my **[Portfolio](https://kishor0925.github.io/MyPortfolio/)**  
