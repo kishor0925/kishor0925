@@ -22,15 +22,13 @@
 
 ## 🛠️ Technical Skills
 
-### 🎨 Frontend
+
 <p align="center">
   <img src="https://img.icons8.com/color/50/html-5.png"/>
   <img src="https://img.icons8.com/color/50/css3.png"/>
   <img src="https://img.icons8.com/color/50/bootstrap.png"/>
   <img src="https://img.icons8.com/color/50/javascript.png"/>
 </p>
-
-### ⚙️ Backend
 <p align="center">
   <img src="https://img.icons8.com/color/50/java-coffee-cup-logo.png"/>
 </p>
