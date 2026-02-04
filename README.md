@@ -23,16 +23,7 @@
 ## 🛠️ Technical Skills
 
 
-<p align="center">
-  <img src="https://img.icons8.com/color/50/html-5.png"/>
-  <img src="https://img.icons8.com/color/50/css3.png"/>
-  <img src="https://img.icons8.com/color/50/bootstrap.png"/>
-  <img src="https://img.icons8.com/color/50/javascript.png"/>
-</p>
-<p align="center">
-  <img src="https://img.icons8.com/color/50/java-coffee-cup-logo.png"/>
-</p>
-
+<p align="center"> <img src="https://img.icons8.com/color/50/html-5.png" alt="HTML"/> <img src="https://img.icons8.com/color/50/css3.png" alt="CSS"/> <img src="https://img.icons8.com/color/50/javascript.png" alt="JavaScript"/> <img src="https://img.icons8.com/color/50/bootstrap.png" alt="Bootstrap"/> <img src="https://img.icons8.com/color/50/figma--v1.png" alt="Figma"/> <img src="https://img.icons8.com/color/50/react-native.png" alt="React"/> </p> <p align="center"> <img src="https://img.icons8.com/color/50/java-coffee-cup-logo.png" alt="Java"/> <img src="https://img.icons8.com/color/50/mongodb.png" alt="MongoDB"/> </p>
 ### 🧰 Tools
 <p align="center">
   <img src="https://img.icons8.com/color/50/visual-studio-code-2019.png"/>
