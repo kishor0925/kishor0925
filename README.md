@@ -6,7 +6,7 @@
 🚀 Passionate about building clean, responsive, and user-friendly web applications.
 
 📧 **Email:** imkishor172@gmail.com  
-   **Portfolio:** kishorpersonalportfolio.vercel.app 
+🌐 **Portfolio:** [kishorpersonalportfolio.vercel.app](https://kishorpersonalportfolio.vercel.app)  
 🎓 **B.E. Computer Science & Engineering** — KPRIET, Coimbatore (2023–2026)
 
 </div>
