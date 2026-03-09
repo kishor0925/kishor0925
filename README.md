@@ -66,7 +66,6 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishor0925&theme=react-dark"/>
 </p>
-
 ---
 
 <div align="center">
