@@ -14,6 +14,7 @@
 ---
 
 ## 🧠 About Me
+
 - 🌱 Aspiring **MERN Stack Developer**
 - ☕ **Java Enthusiast**
 - 💻 Building strong fundamentals in web development
@@ -23,10 +24,49 @@
 
 ## 🛠️ Technical Skills
 
+### Frontend
+<p align="center">
+<img src="https://img.icons8.com/color/50/html-5.png"/>
+<img src="https://img.icons8.com/color/50/css3.png"/>
+<img src="https://img.icons8.com/color/50/javascript.png"/>
+<img src="https://img.icons8.com/color/50/bootstrap.png"/>
+<img src="https://img.icons8.com/color/50/react-native.png"/>
+<img src="https://img.icons8.com/color/50/figma--v1.png"/>
+</p>
 
-<p align="center"> <img src="https://img.icons8.com/color/50/html-5.png" alt="HTML"/> <img src="https://img.icons8.com/color/50/css3.png" alt="CSS"/> <img src="https://img.icons8.com/color/50/javascript.png" alt="JavaScript"/> <img src="https://img.icons8.com/color/50/bootstrap.png" alt="Bootstrap"/> <img src="https://img.icons8.com/color/50/figma--v1.png" alt="Figma"/> <img src="https://img.icons8.com/color/50/react-native.png" alt="React"/> </p> <p align="center"> <img src="https://img.icons8.com/color/50/java-coffee-cup-logo.png" alt="Java"/> <img src="https://img.icons8.com/color/50/mongodb.png" alt="MongoDB"/> </p>
+### Backend / Database
+<p align="center">
+<img src="https://img.icons8.com/color/50/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/50/mongodb.png"/>
+</p>
 
-<p align="center"> <img src="https://img.icons8.com/color/50/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/50/git.png"/> <img src="https://img.icons8.com/color/50/eclipse.png"/> </p>
+### Tools
+<p align="center">
+<img src="https://img.icons8.com/color/50/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/50/git.png"/>
+<img src="https://img.icons8.com/color/50/eclipse.png"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark"/>
+</p>
+
 ---
 
 <div align="center">
