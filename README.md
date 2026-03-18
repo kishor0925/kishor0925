@@ -45,7 +45,8 @@
   <img src="https://img.icons8.com/color/50/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/50/git.png"/>
   <img src="https://img.icons8.com/color/50/eclipse.png"/>
-  <img src="https://img.icons8.com/color/50/postman-api.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
+
 </p>
 
 ---
