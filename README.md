@@ -24,36 +24,23 @@
 
 ## 🛠️ Technical Skills
 
-### Frontend
+### 🚀 Frontend
+
 <p align="center">
-<img src="https://img.icons8.com/color/50/html-5.png"/>
-<img src="https://img.icons8.com/color/50/css3.png"/>
-<img src="https://img.icons8.com/color/50/javascript.png"/>
-<img src="https://img.icons8.com/color/50/bootstrap.png"/>
-<img src="https://img.icons8.com/color/50/react-native.png"/>
-<img src="https://img.icons8.com/color/50/figma--v1.png"/>
- 
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,figma" />
 </p>
 
-### Backend / Database
+### ⚙️ Backend / Database
+
 <p align="center">
- <img src="https://img.icons8.com/color/50/nodejs.png"/>
- <img src="https://img.icons8.com/color/50/express-js.png"/>
-<img src="https://img.icons8.com/color/50/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/50/mongodb.png"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java" />
 </p>
 
-### Tools
+### 🛠️ Tools
+
 <p align="center">
-  <img src="https://img.icons8.com/color/50/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/50/git.png"/>
-  <img src="https://img.icons8.com/color/50/eclipse.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
-
+  <img src="https://skillicons.dev/icons?i=vscode,git,eclipse,postman" />
 </p>
-
----
-
 
 
 
