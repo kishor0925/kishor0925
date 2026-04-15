@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hi, I'm **Kishor M**
+#  Hi, I'm **Kishor M**
 ### Aspiring MERN Stack Developer • Java Enthusiast
 
-🚀 Passionate about building clean, responsive, and user-friendly web applications.
+ Passionate about building clean, responsive, and user-friendly web applications.
 
 📧 **Email:** imkishor172@gmail.com  
 🌐 **Portfolio:** [kishorpersonalportfolio.vercel.app](https://kishorpersonalportfolio.vercel.app)  
@@ -13,12 +13,12 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🌱 Aspiring **MERN Stack Developer**
-- ☕ **Java Enthusiast**
-- 💻 Building strong fundamentals in web development
-- 🚀 Consistently learning and improving through practice
+-  Aspiring **MERN Stack Developer**
+-  **Java Enthusiast**
+-  Building strong fundamentals in web development
+-  Consistently learning and improving through practice
 
 ---
 
@@ -53,15 +53,9 @@
 
 
 
-## 📈 GitHub Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishor0925&theme=react-dark"/>
-</p>
----
 
 <div align="center">
 
-✨ *Learning today, building tomorrow.*
+*Learning today, building tomorrow.*
 
 </div>
