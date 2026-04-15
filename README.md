@@ -32,10 +32,13 @@
 <img src="https://img.icons8.com/color/50/bootstrap.png"/>
 <img src="https://img.icons8.com/color/50/react-native.png"/>
 <img src="https://img.icons8.com/color/50/figma--v1.png"/>
+ 
 </p>
 
 ### Backend / Database
 <p align="center">
+ <img src="https://img.icons8.com/color/50/nodejs.png"/>
+ <img src="https://img.icons8.com/color/50/express-js.png"/>
 <img src="https://img.icons8.com/color/50/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/color/50/mongodb.png"/>
 </p>
