@@ -27,7 +27,7 @@
 ### 🚀 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,next,bootstrap,react,vite,figma" />
 </p>
 
 ### ⚙️ Backend / Database
